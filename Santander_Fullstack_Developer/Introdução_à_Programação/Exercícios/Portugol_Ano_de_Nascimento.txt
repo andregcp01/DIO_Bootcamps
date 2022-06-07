@@ -1,0 +1,12 @@
+programa {
+	funcao inicio() {
+		escreva("Olá! Tudo bem com voce? Eu me chamo dYear, hoje vou tentar descobrir a o ano em que você nasceu!", "\n", "\n")    //Apresentação.
+	    inteiro a, b, y  //Dados de entrada
+	    escreva("\n", "Em que ano nós estamos?", "\n") //Primeira Variável.
+	    leia(a)
+	    escreva("\n", "Quantos anos você terá neste ano?", "\n") //Segunda Variável.
+	    leia(b)
+	    y = a - b //Ano de Nascimento
+	    escreva("\n", "Você nasceu em: ", y, "!", "\n", "\n")    //Resultados
+	}
+}
