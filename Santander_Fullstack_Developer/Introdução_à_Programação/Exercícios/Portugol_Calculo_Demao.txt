@@ -1,0 +1,24 @@
+programa {
+	funcao inicio() {
+		escreva("Olá, tudo bem com você? Eu sou o dTintas e hoje vou ajudá-lo com o seu orçamento de tintas de parede", "\n", "\n")     //Apresentação.
+		real a, b, s, d2, d3    //Dados de entrada reais.
+		inteiro l1,l2, p1, p2   //Dados de entrada inteiros.
+		escreva("\n", "Você poderia me informar de quanto é o valor, em metros, do pé direito da estrutura? Considerando que em todos os cômodos eles tem a mesma altura? (utilize . ao invés de ,)","\n")    //Primeira Variável
+		leia(a)
+		escreva("\n", "Você poderia, por gentileza, me dizer o perímetro em metros da estrutura? ", "\n")      //Segunda Variável
+		leia(b)
+		s=a*b           //Terceira Variável
+		escreva("\n", "Bom, desconsiderando as janelas e as portas, se considerarmos que um galão de tinta de 3,6L pintam 39m² e que ele custa 150 reais, o seu orçamento será de:", "\n", "\n")     //Quarta Variável
+		d2=((2*s)/39)          //Quinta Variável
+		d3=((3*s)/39)          //Sexta Variável
+		l1=d2+1
+		l2=d3+1
+		p1=l1*150
+		p2=l2*150
+		escreva("\n", "Para 1 demão, você precisará de:", "\n")
+		escreva(l1, " latas de Tinta de 3,6L, ", "irá custar-lhe: ", p1," reais", "\n")      //Resultado_1
+		escreva("\n", "Para 1 demão + mão extra, você precisará de:", "\n")
+		escreva(l2, " latas de Tinta de 3,6L, ", "irá custar-lhe: ", p2," reais", "\n")      //Resultado_2
+		escreva("\n", "dTintas se sente orgulhoso em ajudar você! Até a próxima!", "\n")    //Despedida
+	}
+}
