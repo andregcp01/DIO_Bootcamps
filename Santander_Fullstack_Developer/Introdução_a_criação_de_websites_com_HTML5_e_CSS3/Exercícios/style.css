@@ -1,11 +1,14 @@
 body {
 	background: #ccc;
 	font-family: Verdana;
+	max-width: 900px;
+	margin: auto;
 }
 
-.photo {
-	border: 1px solid #505050;
-	border-radius: 50%;
+.photo_perfil {
+	//border: 1px solid #505050;
+	//border-radius: 50%;
+	padding-top: 15px;
 }
 
 #tittle, .subtittle, .post_tittle{
@@ -40,9 +43,21 @@ a	{
 	margin: 0;
 	margin-bottom: 15px;
 	text-transform: capitalize;
+	text-align: justify;
 }
 
 .post_image {
 	margin: 0;
 	margin-bottom: 15px;
+	width: 100%;
+}
+
+.contacts_list{
+	list-style-type: none;
+	padding-left: 15px;
+}
+
+.contacts_list li a {
+	color: blue;
+	text-decoration: none;
 }
