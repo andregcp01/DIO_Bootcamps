@@ -1,5 +1,6 @@
 body {
 	background: #ccc;
+	font-family: Verdana;
 }
 
 .photo {
@@ -11,12 +12,20 @@ body {
 	color: blue;
 }
 
+#tittle {
+	font-size: 40px;
+	text-transform: uppercase;
+}
+
+a	{
+	text-decoration: line-through;
+	color: #505050;
+}
 .post_tittle{
 	font-size: 16px;
 	font-style: italic;
 	margin: 0;
 	margin-bottom: 15px;
-	
 }
 
 .post {
@@ -30,6 +39,7 @@ body {
 .post_content {
 	margin: 0;
 	margin-bottom: 15px;
+	text-transform: capitalize;
 }
 
 .post_image {
