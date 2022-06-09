@@ -1,5 +1,5 @@
 body {
-	background: #ccc;
+	background: #FFF;
 	font-family: Verdana;
 	max-width: 900px;
 	margin: auto;
@@ -11,8 +11,12 @@ body {
 	padding-top: 15px;
 }
 
-#tittle, .subtittle, .post_tittle{
-	color: blue;
+#tittle, .subtittle{
+	color: #445E9C;
+}
+
+.post_tittle {
+	color: black
 }
 
 #tittle {
@@ -22,7 +26,7 @@ body {
 
 a	{
 	text-decoration: line-through;
-	color: #505050;
+	color: green;
 }
 .post_tittle{
 	font-size: 16px;
@@ -32,9 +36,9 @@ a	{
 }
 
 .post {
-	background: #FFF;
+	background: #9DB5f5;
 	padding: 15px;
-	border: 3px solid #000;
+	border: 3px solid #6891F0;
 	border-radius: 5px;
 	margin-bottom: 15px;
 }
@@ -47,6 +51,8 @@ a	{
 }
 
 .post_image {
+	border: 3px solid #445E9C;
+	border-radius: 5px;
 	margin: 0;
 	margin-bottom: 15px;
 	width: 100%;
@@ -58,6 +64,6 @@ a	{
 }
 
 .contacts_list li a {
-	color: blue;
+	color: #445E9C;
 	text-decoration: none;
 }
