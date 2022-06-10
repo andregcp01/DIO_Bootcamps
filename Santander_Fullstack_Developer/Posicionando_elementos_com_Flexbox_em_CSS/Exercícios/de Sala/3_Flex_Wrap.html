@@ -3,6 +3,59 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Fundamentos - Flex wrap</title>
+		
+		<style>
+			.flex-container{
+				margin-top: 15px;
+				margin-bottom: 15px;
+				display: flex;
+				height: 150px;
+				border: 2px solid black;
+				max-width: 300px;
+			}
+			
+			.flex-column{
+				margin-top: 15px;
+				margin-bottom: 15px;
+				display: flex;
+				border: 2px solid black;
+				max-width: 300px;
+				flex-direction: column;
+			}
+			
+			.item{
+				font-size: 24px;
+				height: 50%;
+				text-align: center;
+				min-width: 100px;
+				line-height: 50px;
+			}
+			
+			.nowrap{
+				flex-wrap: nowrap;
+			}
+			
+			.wrap{
+				flex-wrap: wrap;
+			}
+			
+			.wrap-reverse{
+				flex-wrap: wrap-reverse;
+			}
+			
+			.blue{
+				background-color: blue;
+			}
+			
+			.orange{
+				background-color: orangered;
+			}
+			
+			.green{
+				background-color: green;
+			}
+			
+		</style>
 	</head>
 	<body>
 		<header>
@@ -17,6 +70,54 @@
 					<h3 class="post_tittle">Exemplo</h3>
 				</header>
 				<p class="post_content">Aula 3</p>
+				<p>No wrap, resultado sem quebra de linha:</p>
+				<div class="flex-container nowrap">
+					<div class="item blue">1</div>
+					<div class="item orange">1</div>
+					<div class="item green">1</div>
+				</div>
+				<div class="flex-container">
+					<div class="item blue">1</div>
+					<div class="item orange">1</div>
+					<div class="item green">1</div>
+					<div class="item green">1</div>
+					<div class="item green">1</div>
+				</div>
+				</p>Wrap, resultado com quebra de linha:</p>
+				<div class="flex-container wrap">
+					<div class="item blue">1</div>
+					<div class="item orange">1</div>
+					<div class="item green">1</div>
+					<div class="item green">1</div>
+					<div class="item green">1</div>
+				</div>
+				<div class="flex-container wrap-reverse">
+					<div class="item blue">1</div>
+					<div class="item orange">1</div>
+					<div class="item green">1</div>
+					<div class="item blue">1</div>
+					<div class="item blue">1</div>
+				</div>
+				<p>Agora, em Flex column</p>
+				<div class="flex-column wrap">
+					<div class="item blue">1</div>
+					<div class="item orange">1</div>
+					<div class="item green">1</div>
+				</div>
+				<div class="flex-column wrap">
+					<div class="item blue">1</div>
+					<div class="item orange">1</div>
+					<div class="item green">1</div>
+					<div class="item green">1</div>
+					<div class="item green">1</div>
+				</div>
+				<div class="flex-column wrap-reverse">
+					<div class="item blue">1</div>
+					<div class="item orange">1</div>
+					<div class="item green">1</div>
+					<div class="item blue">1</div>
+					<div class="item blue">1</div>
+				</div>
 			</article>
 		</section>
 	</body>
