@@ -1,4 +1,4 @@
-# Links úteis, um que ajuda a minimizar o tamanho da sua pasta HTML e o outro nos ajuda com as dúvidas: :point_left:
+# Links úteis, o primeiro ajuda na diminuição do tamanho da sua pasta HTML e o segundo com conteúdos sobre a plataforma: :point_left:
 
 ### Site para otimizar o tamanho da sua imagem, ele remove o excesso de informação, metadados, entre outros:
 https://tinypng.com
