@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Fundamentos - Flex flow</title>
+		
+		<style>
+			.flex-container{
+				margin-top: 15px;
+				margin-bottom: 15px;
+				display: flex;
+				border: 1px solid black;
+				max-width: 330px;
+			}
+			
+			.flex-column{
+				margin-top: 15px;
+				margin-bottom: 15px;
+				display: flex;
+				border: 1px solid black;
+				max-width: 330px;
+				height: 180px;
+			}
+			
+			.default {
+				flex-flow: row nowrap;
+			}
+			
+			.rr-default {
+				flex-flow: row-reverse nowrap;
+			}
+			
+			.wrap {
+				flex-flow: row wrap;
+			}
+			
+			.wrap-reverse {
+				flex-flow: row wrap-reverse;
+			}
+			
+			.rr-wrap {
+				flex-flow: row-reverse wrap;
+			}
+			
+			.rrwr{
+				flex-flow: row-reverse wrap-reverse;
+			}
+			
+			.wr-column{
+				flex-flow: column wrap-reverse;
+			}
+			
+			.item{
+				background-color: purple;
+				margin: 5px;
+				color: white;
+				text-align: center;
+				min-width: 100px;
+				height: 50px;
+				line-height: 50px;
+			}
+			
+			.rr-item{
+				background-color: purple;
+				margin: 5px;
+				color: white;
+				text-align: center;
+				width: 100px;
+				height: 50px;
+				line-height: 50px;
+			}
+
+		</style>
+	</head>
+	<body>
+		<header>
+			<h1 id="tittle">Fundamentos - Flex flow</h1>
+		</header>
+		<section>
+			<header>
+				<h2 class="subtittle">Flex flow</h2>
+			</header>
+			<article>
+				<header>
+					<h3 class="post_tittle">Exemplo</h3>
+				</header>
+				<p class="post_content">Aula 4</p>
+				<p>No wrap, resultado sem quebra de linha:</p>
+				<div class="flex-container default">
+					<div class="item">1</div>
+					<div class="item">2</div>
+					<div class="item">3</div>
+					<div class="item">4</div>
+				</div>
+				<p>No wrap, com row reverse:</p>
+				<div class="flex-container rr-default">
+					<div class="rr-item">1</div>
+					<div class="rr-item">2</div>
+					<div class="rr-item">3</div>
+					<div class="rr-item">4</div>
+				</div>
+				<p>Wrap, resultado com quebra de linha:</p>
+				<div class="flex-container wrap">
+					<div class="item">1</div>
+					<div class="item">2</div>
+					<div class="item">3</div>
+					<div class="item">4</div>
+				</div>
+				<p>Wrap, com wrap-reverse:</p>
+				<div class="flex-container wrap-reverse">
+					<div class="item">1</div>
+					<div class="item">2</div>
+					<div class="item">3</div>
+					<div class="item">4</div>
+				</div>
+				<p>Wrap, com row reverse:</p>
+					<div class="flex-container rr-wrap">
+					<div class="rr-item">1</div>
+					<div class="rr-item">2</div>
+					<div class="rr-item">3</div>
+					<div class="rr-item">4</div>
+				</div>
+				<p>Wrap, com row reverse e reverse wrap:</p>
+					<div class="flex-container rrwr">
+					<div class="rr-item">1</div>
+					<div class="rr-item">2</div>
+					<div class="rr-item">3</div>
+					<div class="rr-item">4</div>
+				</div>
+				<p>Agora, em coluna com wrap reverse:</p>
+					<div class="flex-container wr-column">
+					<div class="rr-item">1</div>
+					<div class="rr-item">2</div>
+					<div class="rr-item">3</div>
+					<div class="rr-item">4</div>
+				</div>
+				<p>Coluna, alterando a height para 180:</p>
+					<div class="flex-column wr-column">
+					<div class="rr-item">1</div>
+					<div class="rr-item">2</div>
+					<div class="rr-item">3</div>
+					<div class="rr-item">4</div>
+				</div>
+			</article>
+		</section>
+	</body>
+</html>
