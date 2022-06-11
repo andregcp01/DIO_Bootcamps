@@ -38,6 +38,12 @@
 			.space-around{
 				justify-content: space-around;
 			}
+			
+			.column{
+				flex-direction: column;
+				min-height: 200px;
+			}
+			
 		</style>
 		
 	</head>
@@ -54,6 +60,7 @@
 					<h3 class="post_tittle">Exemplo</h3>
 				</header>
 				<p class="post_content">Aula 5</p>
+				<p class="post_content">Comportamento em row:</p>
 					<p class="post_content">Container com class="flex-start":</p>
 					<section class="container flex-start">
 						<div class="item">1</div>
@@ -80,6 +87,37 @@
 					</section>
 					<p class="post_content">Container com class="space-around":</p>
 					<section class="container space-around">
+						<div class="item">1</div>
+						<div class="item">2</div>
+						<div class="item">3</div>
+					</section>
+				<p class="post_content">Comportamento em column:</p>
+					<p class="post_content">Coluna com class="flex-start":</p>
+					<section class="container flex-start column">
+						<div class="item">1</div>
+						<div class="item">2</div>
+						<div class="item">3</div>
+					</section>
+					<p class="post_content">Coluna com class="flex-end":</p>
+					<section class="container flex-end column">
+						<div class="item">1</div>
+						<div class="item">2</div>
+						<div class="item">3</div>
+					</section>
+					<p class="post_content">Coluna com class="center":</p>
+					<section class="container center column">
+						<div class="item">1</div>
+						<div class="item">2</div>
+						<div class="item">3</div>
+					</section>
+					<p class="post_content">Coluna com class="space-between":</p>
+					<section class="container space-between column">
+						<div class="item">1</div>
+						<div class="item">2</div>
+						<div class="item">3</div>
+					</section>
+					<p class="post_content">Coluna com class="space-around":</p>
+					<section class="container space-around column">
 						<div class="item">1</div>
 						<div class="item">2</div>
 						<div class="item">3</div>
