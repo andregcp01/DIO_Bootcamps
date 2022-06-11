@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Fundamentos - Flex shrink</title>
+		
+		<style>
+			.flex-container {
+				margin-bottom: 15px;
+				display: flex;
+				border: 1px solid black;
+				max-width: 350px;
+			}
+			
+			.item {
+				background-color: purple;
+				font-size: 24px;
+				color: white;
+				text-align: center;
+				margin: 5px;
+			}
+			
+			.flex-shrink {
+				flex-shrink: 1;
+			}
+			
+			.flex-shrink-0 {
+				flex-shrink: 0;
+			}
+			
+			.flex-shrink-2 {
+				flex-shrink: 2;
+			}
+			
+			.flex-shrink-3 {
+				flex-shrink: 3;
+			}
+			
+			.flex-basis-100px {
+				flex-basis: 100px;
+			}
+			
+			.flex-grow-1 {
+				flex-grow: 1;
+			}
+			
+		</style>
+		
+	</head>
+	<body>
+		<header>
+			<h1 id="tittle">Fundamentos - Flex shrink</h1>
+		</header>
+		<section>
+			<header>
+				<h2 class="subtittle">Flex shrink</h2>
+			</header>
+			<article>
+				<header>
+					<h3 class="post_tittle">Exemplo</h3>
+				</header>
+				<p class="post_content">Aula 11</p>
+				<p class="post_content">A rapaziada toda com flex-shrink e flex-grow-1 e de tamanhos iguais:</p>
+					<div class="flex-container">
+						<div class="item flex-shrink flex-grow-1">A</div>
+						<div class="item flex-shrink flex-grow-1">B</div>
+						<div class="item flex-shrink flex-grow-1">C</div>
+						<div class="item flex-shrink flex-grow-1">D</div>
+						<div class="item flex-shrink flex-grow-1">E</div>
+					</div>
+				<p class="post_content">A rapaziada toda com flex-shrink e flex-grow-1 e um item feedado:</p>
+					<div class="flex-container">
+						<div class="item flex-shrink flex-grow-1">A</div>
+						<div class="item flex-shrink flex-grow-1">B</div>
+						<div class="item flex-shrink flex-grow-1">C</div>
+						<div class="item flex-shrink flex-grow-1">DDDDDDDDDDDD</div>
+						<div class="item flex-shrink flex-grow-1">E</div>
+					</div>
+				<p class="post_content">O time todo vai de flex-shrink-0, flex-grow-1, flex-basis-100px e um item feedado:</p>
+					<div class="flex-container">
+						<div class="item flex-shrink-0 flex-grow-1 flex-basis-100px">A</div>
+						<div class="item flex-shrink-0 flex-grow-1 flex-basis-100px">B</div>
+						<div class="item flex-shrink-0 flex-grow-1 flex-basis-100px">C</div>
+						<div class="item flex-shrink-0 flex-grow-1 flex-basis-100px">DDDDDDDDDDDD</div>
+						<div class="item flex-shrink-0 flex-grow-1 flex-basis-100px">E</div>
+					</div>
+				<p class="post_content">"A" e "E" de flex-shrink-1, flex-grow-1; "B" e "C" flex-shrink-2, flex-grow-1, flex-basis-100px; "D" flex-shrink-3, flex-grow-1, flex-basis-100px e vai feedado:</p>
+					<div class="flex-container">
+						<div class="item flex-shrink-1 flex-grow-1 flex-basis-100px">A</div>
+						<div class="item flex-shrink-2 flex-grow-1 flex-basis-100px">B</div>
+						<div class="item flex-shrink-2 flex-grow-1 flex-basis-100px">C</div>
+						<div class="item flex-shrink-3 flex-grow-1 flex-basis-100px">DDDDDDDDDDDD</div>
+						<div class="item flex-shrink-1 flex-grow-1 flex-basis-100px">E</div>
+					</div>
+			</article>
+		</section>
+	</body>
+</html>
