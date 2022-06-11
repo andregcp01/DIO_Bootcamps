@@ -43,6 +43,16 @@
 			.column {
 				flex-direction: column;
 			}
+			
+			.central {
+				height: 300px;
+				justify-content: center;
+			}
+			
+			.central .item {
+				flex: 0;
+				padding: 20px;
+			} 
 		</style>
 		
 	</head>
@@ -59,7 +69,7 @@
 					<h3 class="post_tittle">Exemplo</h3>
 				</header>
 				<p class="post_content">Aula 7</p>
-				<h3 class="post_content">Primeiramente em row:</h3>
+				<p class="post_content">Primeiramente em row:</p>
 					<p class="post_content">Align, aplicado a class="center"</p>
 					<section class="container center">
 						<div class="item">Bubbles</div>
@@ -90,7 +100,7 @@
 						<div class="item">Rapid Spin, Hydro Pump</div>
 						<div class="item">Squirtle, Squirtle, Squirtle, Squirtle, Squirtle</div>
 					</section>
-				<h3 class="post_content">Agora, em column:</h3>
+				<p class="post_content">Agora, em column:</p>
 					<p class="post_content">Align column, aplicado a class="center"</p>
 					<section class="container center column">
 						<div class="item">Bubbles</div>
@@ -120,6 +130,11 @@
 						<div class="item"><br>Bubbles</div>
 						<div class="item">Rapid Spin, Hydro Pump</div>
 						<div class="item">Squirtle, Squirtle, Squirtle, Squirtle, Squirtle</div>
+					</section>
+				<p class="post_content">Exemplo extra!</p>
+					<p class="post_content">O meio do meio:</p>
+					<section class="container central center">
+						<div class="item">Squirtle is a small reptilian Pokémon that resembles a light-blue turtle.</div>
 					</section>
 			</article>
 		</section>
