@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Fundamentos - Align content</title>
+		
+		<style>
+			.container {
+				height: 400px;
+				max-width: 300px;
+				display: flex;
+				flex-wrap: wrap;
+				border: 1px solid black;
+			}
+			
+			.item {
+				background-color: orangered;
+				padding: 0 5px;
+				margin: 5px;
+				flex: 1;
+				text-align: center;
+				color: white;
+			}
+			
+			.stretch {
+				align-content: stretch;
+			}
+			
+			.center {
+				align-content: center;
+			}
+			
+			.start {
+				align-content: start;
+			}
+			
+			.end {
+				align-content: end;
+			}
+			
+			.space-around{
+				align-content: space-around;
+			}
+			
+			.space-between{
+				align-content: space-between;
+			}
+		</style>
+		
+	</head>
+	<body>
+		<header>
+			<h1 id="tittle">Fundamentos - Align content</h1>
+		</header>
+		<section>
+			<header>
+				<h2 class="subtittle">Align content</h2>
+			</header>
+			<article>
+				<header>
+					<h3 class="post_tittle">Exemplo</h3>
+				</header>
+				<p class="post_content">Aula 8</p>
+					<p class="post_content">Align content, aplicado a class="stretch" (não muda nada)</p>
+					<div class="container stretch">
+						<div class="item">Vamos iluminar isso aqui!</div>
+						<div class="item">Cabeça erguida, determinação e tesoura afiada.</div>
+						<div class="item">Vamos eliminar seus inimigos. Isso vai ser divertido.</div>
+						<div class="item">Isso vai ser um grande massacre!</div>
+						<div class="item">Vamos à caça daqueles que caíram na escuridão.</div>
+						<div class="item">Achei que nunca fosse me escolher.</div>
+						<div class="item">Todos ainda nos conhecem, embora tentem esquecer, logo os lembraremos</div>
+					</div>
+					<p class="post_content">Align content, aplicado a class="center"</p>
+					<div class="container center">
+						<div class="item">Vamos iluminar isso aqui!</div>
+						<div class="item">1</div>
+						<div class="item">2</div>
+						<div class="item">Isso vai ser um grande massacre!</div>
+						<div class="item">3</div>
+						<div class="item">Achei que nunca fosse me escolher.</div>
+						<div class="item">Todos ainda nos conhecem, embora tentem esquecer, logo os lembraremos</div>
+					</div>
+					<p class="post_content">Align content, aplicado a class="start"</p>
+					<div class="container start">
+						<div class="item">Vamos iluminar isso aqui!</div>
+						<div class="item">1</div>
+						<div class="item">2</div>
+						<div class="item">Isso vai ser um grande massacre!</div>
+						<div class="item">3</div>
+						<div class="item">Achei que nunca fosse me escolher.</div>
+						<div class="item">Todos ainda nos conhecem, embora tentem esquecer, logo os lembraremos</div>
+					</div>
+					<p class="post_content">Align content, aplicado a class="end"</p>
+					<div class="container end">
+						<div class="item">1</div>
+						<div class="item">Cabeça erguida, determinação e tesoura afiada.</div>
+						<div class="item">Vamos eliminar seus inimigos. Isso vai ser divertido.</div>
+						<div class="item">2</div>
+						<div class="item">Vamos à caça daqueles que caíram na escuridão.</div>
+						<div class="item">3</div>
+						<div class="item">4</div>
+					</div>
+					<p class="post_content">Align content, aplicado a class="space-around"</p>
+					<div class="container space-around">
+						<div class="item">Vamos iluminar isso aqui!</div>
+						<div class="item">1</div>
+						<div class="item">2</div>
+						<div class="item">Isso vai ser um grande massacre!</div>
+						<div class="item">3</div>
+						<div class="item">Achei que nunca fosse me escolher.</div>
+						<div class="item">Todos ainda nos conhecem, embora tentem esquecer, logo os lembraremos</div>
+					</div>
+					<p class="post_content">Align content, aplicado a class="space-between"</p>
+					<div class="container space-between">
+						<div class="item">1</div>
+						<div class="item">Cabeça erguida, determinação e tesoura afiada.</div>
+						<div class="item">Vamos eliminar seus inimigos. Isso vai ser divertido.</div>
+						<div class="item">2</div>
+						<div class="item">Vamos à caça daqueles que caíram na escuridão.</div>
+						<div class="item">3</div>
+						<div class="item">4</div>
+					</div>
+			</article>
+		</section>
+	</body>
+</html>
