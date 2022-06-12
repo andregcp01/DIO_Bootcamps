@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Fundamentos - Flex order</title>
+		
+		<style>
+			.flex-container {
+				margin-bottom: 15px;
+				display: flex;
+				max-width: 300px;
+				border: 1px solid black;
+			}
+			
+			.item {
+				flex: 1;
+				background-color: blue;
+				color: white;
+				text-align: center;
+				font-size: 24px;
+				margin: 5px;
+			}
+			
+			.order-1{
+				order: 1;
+			}
+			
+			.order-2 {
+				order: 2;
+			}
+			
+			.order-3 {
+				order: 3;
+			}
+			
+			.order_-1 {
+				order: -1;
+			}
+		</style>
+		
+	</head>
+	<body>
+		<header>
+			<h1 id="tittle">Fundamentos - Flex order</h1>
+		</header>
+		<section>
+			<header>
+				<h2 class="subtittle">Flex order</h2>
+			</header>
+			<article>
+				<header>
+					<h3 class="post_tittle">Exemplo</h3>
+				</header>
+				<p class="post_content">Aula 13</p>
+				<p class="post_content">Análise com order 0 (zero), o padrão:</p>
+					<div class="flex-container">
+					<div class="item">A</div>
+					<div class="item">BB</div>
+					<div class="item">CCC</div>
+					<div class="item">DDDD</div>
+					</div>
+				<p class="post_content">Adicionado order-1 para o item DDDD e order-2 para os demais:</p>
+					<div class="flex-container">
+					<div class="item order-2">A</div>
+					<div class="item order-2">BB</div>
+					<div class="item order-2">CCC</div>
+					<div class="item order-1">DDDD</div>
+					</div>
+				<p class="post_content">Note, que o item com order diferente de 0 e de menor valor, sempre fica a frente dos demais, quando aplica-se order-0 no item A faz com que o DDDD fique em segundo:</p>
+					<div class="flex-container">
+					<div class="item order-0">A</div>
+					<div class="item order-2">BB</div>
+					<div class="item order-2">CCC</div>
+					<div class="item order-1">DDDD</div>
+					</div>
+				<p class="post_content">Introduzindo order-3 no item BB fará com que ele fique no último lugar da lista:</p>
+					<div class="flex-container">
+					<div class="item order-0">A</div>
+					<div class="item order-3">BB</div>
+					<div class="item order-2">CCC</div>
+					<div class="item order-1">DDDD</div>
+					</div>
+				<p class="post_content">Ao aplicar order_-1 ao item BB fará com que ele fique a FRENTE do item A, porque o elemento A tem order-0:</p>
+					<div class="flex-container">
+					<div class="item order-0">A</div>
+					<div class="item order_-1">BB</div>
+					<div class="item order-2">CCC</div>
+					<div class="item order-1">DDDD</div>
+					</div>
+			</article>
+		</section>
+	</body>
+</html>
