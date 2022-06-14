@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Fundamentos - Align Self</title>
+		
+		<style>
+			.flex-container {
+				margin-bottom: 15px;
+				max-width: 350px;
+				border: 1px solid black;
+				display: flex;
+				/*align-items: center;*/
+			}
+			
+			.flex-container-align {
+				margin-bottom: 15px;
+				max-width: 350px;
+				border: 1px solid black;
+				display: flex;
+				align-items: center;
+			}
+			
+			.item {
+				background-color: green;
+				color: white;
+				font-size: 24px;
+				text-align: center;
+				margin: 5px;
+			}
+			
+			.center {
+				align-self: center;
+			}
+			
+			.flex-start {
+				align-self: flex-start;
+			}
+			
+			.flex-end {
+				align-self: flex-end;
+			}
+			
+			.flex-column {
+				flex-direction: column;
+			}
+			
+			.baseline {
+				align-self: baseline;
+			}
+			
+			.stretch {
+				align-self: stretch;
+			}
+			
+			.auto {
+				align-self: auto;
+			}
+		</style>
+		
+	</head>
+	<body>
+		<header>
+			<h1 id="tittle">Fundamentos - Align Self</h1>
+		</header>
+		<section>
+			<header>
+				<h2 class="subtittle">Align Self</h2>
+			</header>
+			<article>
+				<header>
+					<h3 class="post_tittle">Exemplo</h3>
+				</header>
+				<p class="post_content">Aula 14</p>
+				<p class="post_content">Esse é o comportamento padrão do align-items:</p>
+					<div class="flex-container">
+						<div class="item auto">Uma ação vale mais do que mil palavras!</div>
+						<div class="item auto">ITEM B</div>
+						<div class="item auto">123</div>
+						<div class="item auto">DDDD</div>
+					</div>
+				<p class="post_content">Quando é aplicado uma class="align-items" no flex-container, o item respeita o comando do container:</p>
+					<div class="flex-container-align">
+						<div class="item auto">Uma ação vale mais do que mil palavras!</div>
+						<div class="item auto">ITEM B</div>
+						<div class="item auto">123</div>
+						<div class="item auto">DDDD</div>
+					</div>
+				<p class="post_content">Agora, quando nós aplicamos a class="stretch", os itens não sofrem mudança porque eles repeitam a altura do maior elemento:</p>
+					<div class="flex-container">
+						<div class="item auto stretch">Uma ação vale mais do que mil palavras!</div>
+						<div class="item auto stretch">ITEM B</div>
+						<div class="item auto stretch">123</div>
+						<div class="item auto stretch">DDDD</div>
+					</div>
+				<p class="post_content">O comportamento de um flex-container-align, após aplicarmos o segundo item para flex-end, o terceiro item para align-center e o quarto item para flex-start:</p>
+					<div class="flex-container-align">
+						<div class="item auto">Uma ação vale mais do que mil palavras!</div>
+						<div class="item flex-end">ITEM B</div>
+						<div class="item center">123</div>
+						<div class="item flex-start">DDDD</div>
+					</div>
+				<p class="post_content">A estrutura fica zaralhada quando alteramos a largura dos itens, devido o max-width:</p>
+					<div class="flex-container-align">
+						<div class="item auto">Uma ação vale mais do que mil palavras!</div>
+						<div class="item flex-end">AAAAAaaaaa</div>
+						<div class="item center">BBBBBbbbbb</div>
+						<div class="item flex-start">DDDDDddddd</div>
+					</div>
+				<p class="post_content">Comportamento em coluna do flex-container:</p>
+					<div class="flex-container flex-column">
+						<div class="item auto">Uma ação vale mais do que mil palavras!</div>
+						<div class="item flex-end">ITEM B</div>
+						<div class="item center">123</div>
+						<div class="item flex-start">DDDD</div>
+					</div>
+				<p class="post_content">Comportamento em coluna do flex-container-align:</p>
+					<div class="flex-container-align flex-column">
+						<div class="item auto">Uma ação vale mais do que mil palavras!</div>
+						<div class="item auto">ITEM B</div>
+						<div class="item auto">123</div>
+						<div class="item auto">DDDD</div>
+					</div>
+				<p class="post_content">Comportamento em coluna de elementos muito extensos:</p>
+					<div class="flex-container-align flex-column">
+						<div class="item auto">Uma ação vale mais do que mil palavras!</div>
+						<div class="item flex-end">AAAAAaaaaa</div>
+						<div class="item center">BBBBBbbbbb</div>
+						<div class="item flex-start">DDDDDddddd</div>
+					</div>
+			</article>
+		</section>
+	</body>
+</html>
