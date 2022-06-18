@@ -238,5 +238,6 @@ footer {
 
 footer .footer {
 	justify-content: space-between;
+	align-self: flex-end;
 	color: white;
 }
