@@ -4,7 +4,7 @@ Eu criei este repositório com o intuito de que ele, meu portfólio :blush:, con
 
 --- Teste links, p/ futuras mudanças no arquivo de entrada markdown:
 Introdução a criação de websites com HTML5 e CSS3:
-	Primarina: <https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_a_criação_de_websites_com_HTML5_e_CSS3/Exercícios/Primarina/primarina.html>
-	Squirtle: <https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_a_criação_de_websites_com_HTML5_e_CSS3/Exercícios/Squirtle/squirtle.html>
-	Torchic: <https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_a_criação_de_websites_com_HTML5_e_CSS3/Exercícios/Torchic/torchic.html>
+	[Primarina](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_a_criação_de_websites_com_HTML5_e_CSS3/Exercícios/Primarina/primarina.html)
+	[Squirtle](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_a_criação_de_websites_com_HTML5_e_CSS3/Exercícios/Squirtle/squirtle.html)
+	[Torchic](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_a_criação_de_websites_com_HTML5_e_CSS3/Exercícios/Torchic/torchic.html)
 	
