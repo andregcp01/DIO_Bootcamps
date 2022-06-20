@@ -10,6 +10,7 @@ Eu criei este repositório com o intuito de que ele, meu portfólio :blush:, con
 	[Torchic](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_a_criação_de_websites_com_HTML5_e_CSS3/Exercícios/Torchic/torchic.html);
 
 * Flexbox: 
+<div align="center">
 
 | Aula | Fundamentos |
 |:---: |:---:|
@@ -27,3 +28,5 @@ Eu criei este repositório com o intuito de que ele, meu portfólio :blush:, con
 | 12 | [Flex (exemplos)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Posicionando_elementos_com_Flexbox_em_CSS/Exercícios/de_Sala/12_Flex.html) |
 | 13 | [Flex Order](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Posicionando_elementos_com_Flexbox_em_CSS/Exercícios/de_Sala/13_Flex_Order.html) |
 | 14 | [Flex Align Self](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Posicionando_elementos_com_Flexbox_em_CSS/Exercícios/de_Sala/14_Flex_Align_Self.html) |
+
+</div>
