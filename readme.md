@@ -10,7 +10,7 @@
 * Portugol - [Cálculo Demão (simples)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_à_Programação/Exercícios/Portugol_Calculo_Demao.txt)
 
 ### 2. Introdução ao Git e Github
-* [Receitas (Recipes)](): [Cuscuzoca (Bookmark)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_ao_Git_e_GitHub/Exercícios/Recipes/Bookmarks/Cuscuzoca)
+* Receitas: [Cuscuzoca](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Introdução_ao_Git_e_GitHub/Exercícios/Recipes/Bookmarks/Cuscuzoca.md)
 ### 3. **Projeto**
 * Página do Projeto - [meu GitHub](https://github.com/andregcp01/DIO_Bootcamps)
 ## Módulo II
@@ -42,4 +42,3 @@
 ### 4. Introdução ao JavaScript:
 * JavaScript - [Contador](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_ao_JavaScript/Exercícios/de_Sala/Accountant/)
 * JavaScript - [ToDoList (work in progress..)](DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_ao_JavaScript/Exercícios/de_Sala/ToDoList/)
----
