@@ -43,4 +43,4 @@
 * JavaScript - [Contador](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_ao_JavaScript/Exercícios/de_Sala/Accountant/)
 * JavaScript - [ToDoList (work in progress..)](DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_ao_JavaScript/Exercícios/de_Sala/ToDoList/)
 
-### <p style="text-align:center">:turtle: -"on my way"! ...................................................................................................................:flags:(Módulo V)</p>
+### <p style="text-align:center">:turtle: -"on my way"! ..............................................................................................................:flags:(Módulo V)</p>
