@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	box-sizing: border-box;
+	font-family: verdana;
+}
+
+body {
+	background-color: #9DB5f5;
+	margin: auto;
+	color: white;
+	height: 100vh;
+	width: 100%;
+}
+
+h1 {
+	margin-top: 25px;
+}
+
+input {
+	margin-top: 25px;
+	outline: none;
+	border: none;
+}
+
+button {
+	width: 30px;
+	height: 25px;
+}
+
+p {
+	margin-top: 25px;
+}
+
+p a {
+	color: green;
+	text-decoration: line-through;
+}
