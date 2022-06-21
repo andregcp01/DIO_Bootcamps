@@ -1,15 +1,15 @@
 programa {
 	funcao inicio(){
-		escreva("Olá! Tudo bem com você? Eu me chamo dMédias e hoje vou ajudá-lo(a) a calcular suas médias!", "\n", "\n")    //Apresentação.
-		real a, b, x, y //Dados de entrada.
-		escreva("\n", "Nota da Primeira prova: ", "\n")  //Primeira variável.
+		escreva("Olá! Tudo bem com você? Eu me chamo dbot e hoje vou ajudá-lo(a) a calcular suas médias!", "\n", "\n")    //Apresentação.
+		real a, b, x, y
+		escreva("\n", "Nota da Primeira prova: ", "\n")  //Dados de entrada.
 		leia(a)
-		escreva("\n", "Nota da Segunda prova: ", "\n")   //Segunda Variável.
+		escreva("\n", "Nota da Segunda prova: ", "\n")   //Dados de entrada.
 		leia(b)
-		x = a + b   //Soma das Notas "a" e "b"
-        y = x/2     //Médias das Notas "a" e "b"
-        escreva("\n", "Muito bem! Aqui estão os seus resultados!", "\n", "\n")    //Resultados_texto
+		x = a + b   //Variável: Soma das Notas "a" e "b".
+        y = x/2     //Variável: Médias das Notas "a" e "b".
+        escreva("\n", "Muito bem! Aqui estão os seus resultados!", "\n", "\n")    //Resultados_texto.
 		escreva("\n", "A sua média é igual a: ", y, "\n")   //Resultados_valor
-		escreva("\n", "\n", "dMédias se sente orgulhoso por ajudá-lo(a)! Muito obrigado! Até a próxima!", "\n") //Despedida
+		escreva("\n", "\n", "dbot se sente orgulhoso por ajudá-lo(a)! Muito obrigado! Até a próxima!", "\n") //Despedida.
 	}
 }

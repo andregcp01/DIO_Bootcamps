@@ -5,9 +5,9 @@
 ## Módulo I
 
 ### 1. Introdução à Programação e Pensamento Computacional
-* Portugol - [Cálculo das Médias](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/Introdução_à_Programação/Exercícios/Portugol_Medias.txt)
-* Portugol - [Ano de Nascimento](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/Introdução_à_Programação/Exercícios/Portugol_Ano_de_Nascimento.txt)
-* Portugol - [Cálculo Demão (simples)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/Introdução_à_Programação/Exercícios/Portugol_Calculo_Demao.txt)
+* Portugol - [Cálculo das Médias](https://portugol-webstudio.cubos.io/ide#share=65561)[:link:](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/Introdução_à_Programação/Exercícios/Portugol_Medias.txt)
+* Portugol - [Ano de Nascimento](https://portugol-webstudio.cubos.io/ide#share=65562)[:link:](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/Introdução_à_Programação/Exercícios/Portugol_Ano_de_Nascimento.txt)
+* Portugol - [Cálculo Demão (simples)](https://portugol-webstudio.cubos.io/ide#share=65565)[:link:](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/Introdução_à_Programação/Exercícios/Portugol_Calculo_Demao.txt)
 
 ### 2. Introdução ao Git e Github
 * Receitas: [Cuscuzoca](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_I/Introdução_ao_Git_e_GitHub/Exercícios/Recipes/Bookmarks/Cuscuzoca.md)
@@ -36,15 +36,15 @@
 * Aula 12: [Flex (exemplos)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Posicionando_elementos_com_Flexbox_em_CSS/Exercícios/de_Sala/12_Flex.html)
 * Aula 13: [Flex Order](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Posicionando_elementos_com_Flexbox_em_CSS/Exercícios/de_Sala/13_Flex_Order.html)
 * Aula 14: [Flex Align Self](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Posicionando_elementos_com_Flexbox_em_CSS/Exercícios/de_Sala/14_Flex_Align_Self.html)
-
+* Página do Projeto - [Flex Turismos](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Posicionando_elementos_com_Flexbox_em_CSS/Exercícios/de_Sala/Projeto/)
 ### 3. Recriando a página inicial do Instagram 
-* Página do Projeto - [meu Instagram](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Posicionando_elementos_com_Flexbox_em_CSS/Projeto_Instagram/)
+* Página do Projeto - [Instagram](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Posicionando_elementos_com_Flexbox_em_CSS/Projeto_Instagram/)
 
 ### 4. Introdução ao JavaScript
 * JavaScript - [Contador](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Introdução_ao_JavaScript/Exercícios/de_Sala/Accountant/)
 * JavaScript - [ToDoList (in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Introdução_ao_JavaScript/Exercícios/ToDoList/)
 
 ### 5. Sintaxe e Operadores
-* JavaScript - [(10<=A+B<=20) (in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/meu_Resultado/)
+* Página do Projeto - [Operator (se/senão) (in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/meu_Resultado/)
 
 ### (Módulo V) :flags: ................................................................................ - "On my way!" :turtle::dash:....................
