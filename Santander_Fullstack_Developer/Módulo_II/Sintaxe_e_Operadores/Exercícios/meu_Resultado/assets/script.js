@@ -5,7 +5,6 @@ function add(){
 	var d = 10;
 	var e = 20;
 	//alert(parseInt(a)+parseInt(b));
-	//https://www.youtube.com/watch?v=Ua2WsiycWr4 (link do vídeo do camarada que me ajudou xD)
 	if((a)==(b)){
 		alert("A e B são iguais!");
 	}else {

@@ -36,7 +36,7 @@
 * Aula 12: [Flex (exemplos)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Posicionando_elementos_com_Flexbox_em_CSS/Exercícios/de_Sala/12_Flex.html)
 * Aula 13: [Flex Order](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Posicionando_elementos_com_Flexbox_em_CSS/Exercícios/de_Sala/13_Flex_Order.html)
 * Aula 14: [Flex Align Self](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Posicionando_elementos_com_Flexbox_em_CSS/Exercícios/de_Sala/14_Flex_Align_Self.html)
-* Página do Projeto - [Flex Turismos](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Posicionando_elementos_com_Flexbox_em_CSS/Exercícios/de_Sala/Projeto/)
+* Flexbox - [Flex Turismos](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Posicionando_elementos_com_Flexbox_em_CSS/Exercícios/de_Sala/Projeto/)
 ### 3. Recriando a página inicial do Instagram 
 * Página do Projeto - [Instagram](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Posicionando_elementos_com_Flexbox_em_CSS/Projeto_Instagram/)
 
