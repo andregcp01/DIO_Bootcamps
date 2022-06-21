@@ -42,6 +42,6 @@
 
 ### 4. Introdução ao JavaScript
 * JavaScript - [Contador](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Introdução_ao_JavaScript/Exercícios/de_Sala/Accountant/)
-* JavaScript - [ToDoList (work in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Introdução_ao_JavaScript/Exercícios/de_Sala/ToDoList/)
+* JavaScript - [ToDoList (work in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Introdução_ao_JavaScript/Exercícios/ToDoList/)
 
 ### (Módulo V) :flags: ................................................................................ - "On my way!" :turtle::dash:....................
