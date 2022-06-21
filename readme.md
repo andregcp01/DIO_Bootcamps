@@ -2,7 +2,7 @@
 
 <p align="justify">Eu criei este repositório com o intuito de que ele, meu portfólio :blush:, contenha um breve resumo de tudo que eu já fiz nos Bootcamps, seguindo as orientações dos grandes mestres da plataforma DIO e do meu primo! Espero que sirva de ajuda e atue como uma base de aprendizado para outras pessoas, principalmente para os que ingressaram na plataforma a pouco tempo, como eu, e de informação para os curiosos! :eyes:</p>
 
-## Módulo I
+## Módulo I :heavy_check_mark:
 
 ### 1. Introdução à Programação e Pensamento Computacional
 * Portugol - [Cálculo das Médias](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_à_Programação/Exercícios/Portugol_Medias.txt) 
@@ -13,7 +13,8 @@
 * Receitas: [Cuscuzoca](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Introdução_ao_Git_e_GitHub/Exercícios/Recipes/Bookmarks/Cuscuzoca.md)
 ### 3. **Projeto**
 * Página do Projeto - [meu GitHub](https://github.com/andregcp01/DIO_Bootcamps)
-## Módulo II
+
+## Módulo II :o:
 
 ### 1. Introdução a criação de websites com HTML5 e CSS3
 * Html - [Torchic](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_a_criação_de_websites_com_HTML5_e_CSS3/Exercícios/Torchic/torchic.html)
@@ -43,4 +44,4 @@
 * JavaScript - [Contador](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_ao_JavaScript/Exercícios/de_Sala/Accountant/)
 * JavaScript - [ToDoList (work in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_ao_JavaScript/Exercícios/de_Sala/ToDoList/)
 
-### <!--p style="text-align:center"><-->(Módulo V):flags: ....................................................................................................... -"on my way"!:turtle::dash:
+### <!--p style="text-align:center">(Módulo V):flags: ....................................................................................................... -"on my way"!:turtle::dash:</p-->
