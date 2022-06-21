@@ -45,6 +45,6 @@
 * JavaScript - [ToDoList (in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Introdução_ao_JavaScript/Exercícios/ToDoList/)
 
 ### 5. Sintaxe e Operadores
-* JavaScript - [10<=A+B<=20 (in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/meu_Resultado/)
+* JavaScript - [(10<=A+B<=20) (in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/meu_Resultado/)
 
 ### (Módulo V) :flags: ................................................................................ - "On my way!" :turtle::dash:....................
