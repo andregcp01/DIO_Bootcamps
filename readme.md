@@ -21,7 +21,7 @@
 * Html - [Squirtle](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_a_criação_de_websites_com_HTML5_e_CSS3/Exercícios/Squirtle/squirtle.html)
 * Html - [Primarina](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_a_criação_de_websites_com_HTML5_e_CSS3/Exercícios/Primarina/primarina.html)
 
-### 2. Posicionando elementos com Flexbox em CSS:
+### 2. Posicionando elementos com Flexbox em CSS
 * Aula 01: [Display Flex](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Posicionando_elementos_com_Flexbox_em_CSS/Exercícios/de_Sala/1_Display_Flex.html)
 * Aula 02: [Flex Direction](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Posicionando_elementos_com_Flexbox_em_CSS/Exercícios/de_Sala/2_Flex_Direction.html)
 * Aula 03: [Flex Wrap](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Posicionando_elementos_com_Flexbox_em_CSS/Exercícios/de_Sala/3_Flex_Wrap.html)
@@ -40,7 +40,7 @@
 ### 3. Recriando a página inicial do Instagram 
 * Página do Projeto - [meu Instagram](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Posicionando_elementos_com_Flexbox_em_CSS/Projeto_Instagram/)
 
-### 4. Introdução ao JavaScript:
+### 4. Introdução ao JavaScript
 * JavaScript - [Contador](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_ao_JavaScript/Exercícios/de_Sala/Accountant/)
 * JavaScript - [ToDoList (work in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_ao_JavaScript/Exercícios/de_Sala/ToDoList/)
 
