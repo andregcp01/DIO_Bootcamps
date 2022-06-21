@@ -37,8 +37,10 @@
 * Aula 14: [Flex Align Self](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Posicionando_elementos_com_Flexbox_em_CSS/Exercícios/de_Sala/14_Flex_Align_Self.html)
 
 ### 3. Recriando a página inicial do Instagram 
-* Página do Projeto - [Projeto](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Posicionando_elementos_com_Flexbox_em_CSS/Projeto_Instagram/)
+* Página do Projeto - [meu Instagram](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Posicionando_elementos_com_Flexbox_em_CSS/Projeto_Instagram/)
 
 ### 4. Introdução ao JavaScript:
 * JavaScript - [Contador](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_ao_JavaScript/Exercícios/de_Sala/Accountant/)
 * JavaScript - [ToDoList (work in progress..)](DIO_Bootcamps/Santander_Fullstack_Developer/Introdução_ao_JavaScript/Exercícios/de_Sala/ToDoList/)
+
+### <p style="text-align:center">:turtle: -"on my way"! ...................................................................................................................:flags:(Módulo V)</p>
