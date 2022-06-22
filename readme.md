@@ -45,7 +45,7 @@
 * Página do Projeto - [ToDoList (in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Introdução_ao_JavaScript/Exercícios/ToDoList/)
 
 ### 5. Sintaxe e Operadores
-* Página do Projeto - [Operator (log no if/else)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/Operator_log_no_if-else/)
-* Página do Projeto - [Operator (log no switch)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/Operator_log_no_switch/)
+* Página do Projeto - [Operator (if/else log)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/Operator_if-else_log/)
+* Página do Projeto - [Operator (switch log)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/Operator_switch_log/)
 
 ### (Módulo V) :flags: ................................................................................ - "On my way!" :turtle::dash:....................
