@@ -46,6 +46,6 @@
 
 ### 5. Sintaxe e Operadores
 * Página do Projeto - [Operator (if/else)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/Operator_if-else/)
-* Página do Projeto - [Operator (switch) (in progress..)]()
+* Página do Projeto - [Operator (switch) (in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/Operator_switch/)
 
 ### (Módulo V) :flags: ................................................................................ - "On my way!" :turtle::dash:....................
