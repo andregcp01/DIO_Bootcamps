@@ -7,7 +7,7 @@
 }
 
 body {
-	background-color: #9DB5f5;
+	background-color: #EE99AB;
 	margin: auto;
 	color: white;
 	height: 100vh;
@@ -32,9 +32,10 @@ button {
 
 p {
 	margin-top: 25px;
+	margin-bottom: 25px;
 }
 
 p a {
-	color: green;
+	color: blue;
 	text-decoration: line-through;
 }

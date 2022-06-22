@@ -5,27 +5,21 @@ function add(){
 	var d = 10;
 	var e = 20;
 	//alert(parseInt(a)+parseInt(b));
-	if((a)==(b)){
-		alert("A e B são iguais!")
+	switch (a) {
+		case (b):
+			alert("A e B são iguais!");
+			break;
+		default:
+			alert("A e B são diferentes!");
+			break;
+	}
+	if((c)/d>1){
+		alert("A soma de A + B é maior do que 10!");
 	} else {
-		alert("A e B não são iguais")
-	}
-	if((c)<(d)){
-		alert("A + B é menor do que 10!")
-	} else {if((c)>(d)){
-				alert("A + B é maior do que 10!")
-	} 		else {
-				alert("A + B é igual a 10!")
-	}
-		
-	}
-	if((c)<(e)){
-		alert("A + B é menor do que 20!")
-	} else {if((c)>(e)){
-				alert("A + B é maior do que 20!")
-	} 		else {
-				alert("A + B é igual a 20!")
-	}
-		
+			if((c)/d<1){
+				alert("A soma de A + B é menor do que 10!");
+		} else {
+			alert("A soma de A + B é igual a 10!")
+		}
 	}
 }
