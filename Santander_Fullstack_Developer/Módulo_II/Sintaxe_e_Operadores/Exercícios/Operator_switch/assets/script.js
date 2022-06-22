@@ -22,4 +22,5 @@ function add(){
 			alert("A soma de A + B é igual a 10!")
 		}
 	}
+	
 }
