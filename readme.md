@@ -47,7 +47,7 @@
 ### 5. Sintaxe e Operadores
 * Página do Desafio - [Number Measure (if/else alert)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/Number_Measure_if-else_alert/)
 * Página do Desafio - [Number Measure (switch alert)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/Number_Measure_switch_alert/)
-* Javascript - [Compara Números](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/de_Sala/comparaNúmeros.js)
-* Javascript - [Compara Números - Validação (in progress..)](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/de_Sala/comparaNúmeros_validação.js)
+* JavaScript - [Compara Números](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/de_Sala/comparaNúmeros.js)
+* JavaScript - [Compara Números - Validação (in progress..)](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/de_Sala/comparaNúmeros_validação.js)
 
 ### (Módulo V) :flags: ................................................................................ - "On my way!" :turtle::dash:....................
