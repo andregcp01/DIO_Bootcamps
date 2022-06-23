@@ -1,4 +1,6 @@
 function comparaNumeros(num1, num2) {
+	if(!num || !num2) return 'Defina dois números:'
+	
 	const primeiraFrase = criaPrimeiraFrase(num1, num2);
 	const segundaFrase = criaSegundaFrase(num1, num2);
 	
@@ -34,4 +36,4 @@ function criaSegundaFrase(num1, num2) {
 	return `Sua soma é ${soma}, que é ${resultado10} que 10 e ${resultado20} que 20!`
 }
 
-console.log(comparaNumeros(10, 10));
+console.log(comparaNumeros(1, 1)); //Está bugado!
