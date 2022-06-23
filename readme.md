@@ -41,8 +41,8 @@
 * Página do Projeto - [Instagram](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Posicionando_elementos_com_Flexbox_em_CSS/Projeto_Instagram/)
 
 ### 4. Introdução ao JavaScript
-* JavaScript - [Clicker (less/plus)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Introdução_ao_JavaScript/Exercícios/de_Sala/Accountant/)
 * Página do Desafio - [ToDoList (in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Introdução_ao_JavaScript/Exercícios/ToDoList/)
+* JavaScript - [Clicker (less/plus)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Introdução_ao_JavaScript/Exercícios/de_Sala/Accountant/)
 
 ### 5. Sintaxe e Operadores
 * Página do Desafio - [Number Measure (if/else alert)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/Number_Measure_if-else_alert/)
