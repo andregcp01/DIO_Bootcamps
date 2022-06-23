@@ -42,10 +42,10 @@
 
 ### 4. Introdução ao JavaScript
 * JavaScript - [Clicker (less/plus)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Introdução_ao_JavaScript/Exercícios/de_Sala/Accountant/)
-* Página do Projeto - [ToDoList (in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Introdução_ao_JavaScript/Exercícios/ToDoList/)
+* Página do Desafio - [ToDoList (in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Introdução_ao_JavaScript/Exercícios/ToDoList/)
 
 ### 5. Sintaxe e Operadores
-* Página do Projeto - [Operator (if/else log)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/Operator_if-else_log/)
-* Página do Projeto - [Operator (switch log)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/Operator_switch_log/)
+* Página do Desafio - [Number Measure (if/else alert)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/Number_Measure_if-else_alert/)
+* Página do Desafio - [Number Measure (switch alert)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/Number_Measure_switch_alert/)
 
 ### (Módulo V) :flags: ................................................................................ - "On my way!" :turtle::dash:....................
