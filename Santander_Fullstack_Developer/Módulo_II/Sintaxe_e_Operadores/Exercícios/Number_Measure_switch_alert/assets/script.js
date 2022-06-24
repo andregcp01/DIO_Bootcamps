@@ -16,6 +16,9 @@ function add(){
 			break;
 	}
 	
+	let soma = (c);
+		alert(`A + B = ${soma}`)
+	
 	if((c/d)>1) {
 		n = 2;
 	} else {

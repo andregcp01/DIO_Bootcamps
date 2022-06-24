@@ -5,11 +5,16 @@ function add(){
 	var d = 10;
 	var e = 20;
 	//alert(parseInt(a)+parseInt(b));
+	
 	if((a)==(b)){
 		alert("A e B são iguais!")
 	} else {
 		alert("A e B não são iguais")
 	}
+	
+	let soma = (c);
+		alert(`A + B = ${soma}`)
+	
 	if((c)<(d)){
 		alert("A + B é menor do que 10!")
 	} else {if((c)>(d)){
