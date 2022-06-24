@@ -50,4 +50,7 @@
 * JavaScript - [Compara Números](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/de_Sala/comparaNúmeros.js)
 * JavaScript - [Compara Números - Validação (in progress..)](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/de_Sala/comparaNúmeros_validação.js)
 
+### 6. Sintaxe e Operadores
+
+
 ### (Módulo V) :flags: ................................................................................ - "On my way!" :turtle::dash:....................
