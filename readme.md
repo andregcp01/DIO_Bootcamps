@@ -5,9 +5,9 @@
 ## Módulo I
 
 ### 1. Introdução à Programação e Pensamento Computacional
-* Portugol - [Cálculo das Médias](https://portugol-webstudio.cubos.io/ide#share=65561)[:link:](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/Introdução_à_Programação/Exercícios/Portugol_Medias.txt)
-* Portugol - [Ano de Nascimento](https://portugol-webstudio.cubos.io/ide#share=65562)[:link:](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/Introdução_à_Programação/Exercícios/Portugol_Ano_de_Nascimento.txt)
-* Portugol - [Cálculo Demão (simples)](https://portugol-webstudio.cubos.io/ide#share=65565)[:link:](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/Introdução_à_Programação/Exercícios/Portugol_Calculo_Demao.txt)
+* [:link:](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/Introdução_à_Programação/Exercícios/Portugol_Medias.txt) Portugol - [Cálculo das Médias](https://portugol-webstudio.cubos.io/ide#share=65561)
+* [:link:](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/Introdução_à_Programação/Exercícios/Portugol_Ano_de_Nascimento.txt) Portugol - [Ano de Nascimento](https://portugol-webstudio.cubos.io/ide#share=65562)
+* [:link:](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/Introdução_à_Programação/Exercícios/Portugol_Calculo_Demao.txt) Portugol - [Cálculo Demão (simples)](https://portugol-webstudio.cubos.io/ide#share=65565)
 
 ### 2. Introdução ao Git e Github
 * Receitas: [Cuscuzoca](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_I/Introdução_ao_Git_e_GitHub/Exercícios/Recipes/Bookmarks/Cuscuzoca.md)
