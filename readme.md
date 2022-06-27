@@ -5,9 +5,9 @@
 ## Módulo I
 
 ### 1. Introdução à Programação e Pensamento Computacional
-* [:link:](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/Introdução_à_Programação/Exercícios/Portugol_Medias.txt) Portugol - [Cálculo das Médias](https://portugol-webstudio.cubos.io/ide#share=65561)
-* [:link:](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/Introdução_à_Programação/Exercícios/Portugol_Ano_de_Nascimento.txt) Portugol - [Ano de Nascimento](https://portugol-webstudio.cubos.io/ide#share=65562)
-* [:link:](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/Introdução_à_Programação/Exercícios/Portugol_Calculo_Demao.txt) Portugol - [Cálculo Demão (simples)](https://portugol-webstudio.cubos.io/ide#share=65565)
+* Portugol - [Cálculo das Médias](https://portugol-webstudio.cubos.io/ide#share=65561)[:link:](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/Introdução_à_Programação/Exercícios/Portugol_Medias.txt)
+* Portugol - [Ano de Nascimento](https://portugol-webstudio.cubos.io/ide#share=65562)[:link:](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/Introdução_à_Programação/Exercícios/Portugol_Ano_de_Nascimento.txt)
+* Portugol - [Cálculo Demão (simples)](https://portugol-webstudio.cubos.io/ide#share=65565)[:link:](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/Introdução_à_Programação/Exercícios/Portugol_Calculo_Demao.txt)
 
 ### 2. Introdução ao Git e Github
 * Receitas: [Cuscuzoca](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_I/Introdução_ao_Git_e_GitHub/Exercícios/Recipes/Bookmarks/Cuscuzoca.md)
@@ -51,6 +51,6 @@
 * JavaScript - [Compara Números - Validação (in progress..)](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/de_Sala/comparaNúmeros_validação.js)
 
 ### 6. Sintaxe e Operadores
-
+* JavaScript - [Name Measure [in progress..]](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Variáveis_e_Tipos/Exercícios/Strings/index.html)
 
 ### (Módulo V) :flags: ................................................................................ - "On my way!" :turtle::dash:....................
