@@ -51,6 +51,6 @@
 * JavaScript - [Compara Números - Validação (in progress..)](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/de_Sala/comparaNúmeros_validação.js)
 
 ### 6. Sintaxe e Operadores
-* JavaScript - [Namer Measure [in progress..]](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Variáveis_e_Tipos/Exercícios/Strings/index.html)
+* JavaScript - [Namer Measure [in progress..]](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Variáveis_e_Tipos/Exercícios/Namer_Measure/index.html)
 
 ### (Módulo V) :flags: ................................................................................ - "On my way!" :turtle::dash:....................
