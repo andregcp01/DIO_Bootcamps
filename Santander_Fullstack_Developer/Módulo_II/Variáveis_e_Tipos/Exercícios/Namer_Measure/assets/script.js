@@ -1,13 +1,23 @@
 function namelength(){
 	var a = document.getElementById("name").value;
 	var b = document.getElementById("surname").value;
-	var c = 0;
+	var x = 0;
 
 	let firstName = (a);
-		alert(`Certo! Seja bem vindo ${firstName}!`);
-	
+		if((a)!=x) {
+			alert(`Certo! Seja bem vindo ${firstName}!`);
+		} else {
+			firstName = "João";
+			alert(`Humm, então você é o tal do João..`)
+		}
+		
 	let secondName = (b);
-		alert(`Beleza! Seu sobrenome é ${secondName}`);
+		if((b)!=x) {
+			alert(`Beleza! Seu sobrenome é ${secondName}`);
+		} else {
+			secondName = "das Neves";
+			alert(`Ok então, já sei qual deve ser..`)
+		}
 	
 	let fullName = `${firstName} ${secondName}`;
 		alert(`Então seu nome é: ${fullName}`);
@@ -16,5 +26,9 @@ function namelength(){
 	alert(`Seu primeiro nome tem: ${nameLength} letras!`)
 	
 	let surnameLength = (secondName.length);
-	alert(`Seu segundo nome tem: ${surnameLength} letras!`)
+		if((secondName)="das Neves") {			
+			alert(`Seu segundo nome tem: 8 letras!`)
+		} else {
+			alert(`Seu segundo nome tem: ${surnameLength} letras!`)
+		}
 }
