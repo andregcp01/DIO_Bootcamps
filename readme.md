@@ -48,7 +48,7 @@
 * Página do Desafio - [Number Measure (if/else alert)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/Number_Measure_if-else_alert/)
 * Página do Desafio - [Number Measure (switch alert)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/Number_Measure_switch_alert/)
 * JavaScript - [[Terminal] Compara Números](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/de_Sala/comparaNúmeros.js)
-* JavaScript - [[Terminal] Compara Números - Validação (in progress..)](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/de_Sala/comparaNúmeros_validação.js)
+* JavaScript - [[Terminal] Compara Números - Validação](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/de_Sala/comparaNúmeros_validação.js)
 
 ### 6. Sintaxe e Operadores
 * JavaScript - [Namer Measure](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Variáveis_e_Tipos/Exercícios/Namer_Measure/index.html)
