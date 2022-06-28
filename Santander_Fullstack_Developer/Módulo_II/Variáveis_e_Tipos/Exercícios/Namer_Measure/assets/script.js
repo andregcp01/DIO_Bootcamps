@@ -1,25 +1,14 @@
 function namelenght(){
-	var a = document.getElementById("name");
-	a.setAttribute("type", "text");
-	var b = document.getElementById("surname");
-	b.setAttribute("type", "text");
+	var a = document.getElementById("name").value;
+	var b = document.getElementById("surname").value;
 	
-	if a = 0 {
-		firstName = João;
-	} else {
-		firstName = "name";
-	}
-	
-	if b = 0 {
-		secondName = das Neves;
-	} else {
-		secondname = "surname";
-	}
-	
-	let firstName = "(a)";
+	let firstName = (a);
 		alert(`Certo! Seja bem vindo ${firstName}!`);
 		
-	let secondName = "(b)"
-		alert(`Ok! Seu sobrenome é ${secondName}`);
+	let secondName = (b);
+		alert(`Beleza! Seu sobrenome é ${secondName}`);
 	
+	let fullName = firstName + " " + secondName;
+		alert(`Então seu nome é: ${fullName}`);
+
 }
