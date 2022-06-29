@@ -47,3 +47,8 @@ body .container button {
 	width: 30px;
 	height: 25px;
 }
+
+body p a {
+	text-decoration: line-through;
+	color: blue;
+}
