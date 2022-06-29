@@ -3,12 +3,18 @@ function ripevennumbers(){
 	
 	let sequenceNumbers = (a);
 	
-	let splitSequence = (a).split("")
-	alert(`${splitSequence}`)
+	let splitSequence = (a).split("");
+	//alert(`${splitSequence}`)
 	
-	for (var i = 0; i < splitSequence.length; i++) {
-		if (splitSequence[i] % 2 === 0){
-			alert(`${splitSequence[i]}`)
+	function noeven(){
+		var splitSequence = [];
+		for (x in a){
+			if (!(a[x]%2) == 0){
+				splitSequence.push(a[x]);
+			}
 		}
+	return splitSequence;
 	}
+	
+	alert(noeven(splitSequence));
 }
