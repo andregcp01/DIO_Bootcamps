@@ -20,10 +20,6 @@ function eveniszero(){
 	}
 	
 	alert(swap(splitSequence));
-	
-	//if (sei la oq % 2 == 0) {
-	//	return 0;
-	//}
 }
 
 //	function swap(splitSequence) {
