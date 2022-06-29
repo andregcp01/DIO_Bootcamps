@@ -3,13 +3,13 @@ function checkword(){
 	
 	let reverseString = (a);
 	var splitString = (a).split("");
-	alert(`${splitString}`); // Divisão dos elementos do Array
+	//alert(`${splitString}`); // Divisão dos elementos do Array
 	
 	var reverseArray = splitString.reverse();
-	alert(`${reverseArray}`); // Revertendo a ordem dos elementos do Array
+	//alert(`${reverseArray}`); // Revertendo a ordem dos elementos do Array
 	
 	var joinArray = reverseArray.join("");
-	alert(`${joinArray}`); // Fusão dos elementos ao contrário
+	//alert(`${joinArray}`); // Fusão dos elementos ao contrário
 	
 	if((joinArray)==(a)){
 		alert(`A palavra é um palíndromo!`)
