@@ -1,0 +1,54 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	box-sizing: border-box;
+	font-family: verdana;
+}
+
+body {
+	background-color: #F5AC78;
+	margin: auto;
+	color: #9C531F;
+	height: 100vh;
+	width: 100%;
+}
+
+h1 {
+	padding-top: 25px;
+}
+
+body .list {
+	align-items: center;
+	margin-top: 20px;
+}
+
+body .list .phrase {
+	margin-top: 20px;
+}
+
+body .list .word {
+	margin-top: 15px;
+	outline: none;
+	border: none;
+	border-radius: 3px;
+}
+
+body .list input {
+	outline: none;
+	border: none;
+	border-radius: 3px;
+}
+
+body .list button {
+	margin-bottom: 25px;
+	margin-top: 15px;
+	outline: none;
+	width: 30px;
+	height: 25px;
+}
+
+body p a {
+	text-decoration: line-through;
+	color: blue;
+}
