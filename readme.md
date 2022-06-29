@@ -51,9 +51,7 @@
 * JavaScript - [[Terminal] Compara Números - Validação](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_II/Sintaxe_e_Operadores/Exercícios/de_Sala/comparaNúmeros_validação.js)
 
 ### 6. Sintaxe e Operadores
-* JavaScript - [Namer Measure](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Variáveis_e_Tipos/Exercícios/Namer_Measure/index.html)
-* JavaScript - [Quote of the Day (in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Variáveis_e_Tipos/Exercícios/Quote_of_the_Day/)
+* :turtle: Challenge - [Namer Measure](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Variáveis_e_Tipos/Exercícios/Namer_Measure/index.html)
+* :turtle: Challenge - [Quote of the Day (in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Variáveis_e_Tipos/Exercícios/Quote_of_the_Day/)
 * JavaScript - [Verificar Palíndromo](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Variáveis_e_Tipos/Exercícios/de_Sala/Verificar_Palíndromo/)
 * JavaScript - [Substituir Números Pares (in progress)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/Variáveis_e_Tipos/Exercícios/de_Sala/Substituir_Números_Pares/)
-
-### (Módulo V) :flags: ................................................................................ - "On my way!" :turtle::dash:....................
