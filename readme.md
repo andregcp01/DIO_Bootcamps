@@ -53,7 +53,7 @@
 ### 6. Sintaxe e Operadores
 * Página do Desafio - [Namer Measure](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/Namer_Measure/index.html)
 * Página do Desafio - [Quote of the Day (in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/Quote_of_the_Day/)
-* Página do Desafio - [Verificar Palíndromo](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/de_Sala/Verificar_Palíndromo/)
-* Página do Desafio - [Substituir Números Pares](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/de_Sala/Substituir_Números_Pares/)
+* Página do Desafio - [Verificar Palíndromo](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/Verificar_Palíndromo/)
+* Página do Desafio - [Substituir Números Pares](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/Substituir_Números_Pares/)
 * JavaScript - [[Terminal] Verificar Palíndromo (in progress..)]()
 * JavaScript - [[Terminal] Substituir Números Pares (in progress..)]()
