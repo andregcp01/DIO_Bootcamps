@@ -55,5 +55,5 @@
 * Página do Desafio - [Quote of the Day (in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/Quote_of_the_Day/)
 * Página do Desafio - [Verificar Palíndromo](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/Verificar_Palíndromo/)
 * Página do Desafio - [Substituir Números Pares](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/Substituir_Números_Pares/)
-* JavaScript - [[Terminal] Verificar Palíndromo (in progress..)]()
-* JavaScript - [[Terminal] Substituir Números Pares (in progress..)]()
+* JavaScript - [[Terminal] Verificar Palíndromo](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/Substituir_Números_Pares/de_Sala/verificaPalíndromo.js)
+* JavaScript - [[Terminal] Substituir Números Pares](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/Substituir_Números_Pares/de_Sala/substituiNúmerosPares.js)
