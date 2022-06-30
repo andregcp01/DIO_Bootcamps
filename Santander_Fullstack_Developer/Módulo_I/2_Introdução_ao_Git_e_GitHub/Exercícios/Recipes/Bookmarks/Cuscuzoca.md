@@ -1,4 +1,8 @@
 # Cuscuzoca :bookmark:
+
+<p align="center">
+  <img src="Cuscuzoca.png">
+</p>
 	
 ### Ingredientes:
 * 2 Colheres de farinha de milho;
