@@ -59,5 +59,5 @@
 * JavaScript - [[Terminal] Substituir Números Pares](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/de_Sala/substituiNúmerosPares.js)
 
 ### 7. Funções
-* JavaScript - [[Terminal] Alunos Aprovados](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/6_Funções/Exercícios/de_Sala/verificaAprovação.js)
+* JavaScript - [[Terminal] Jogadores Aprovados](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/6_Funções/Exercícios/de_Sala/verificaAprovação.js)
 * JavaScript - [[Terminal] Idade Futura](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/6_Funções/Exercícios/de_Sala/calculaIdade.js)
