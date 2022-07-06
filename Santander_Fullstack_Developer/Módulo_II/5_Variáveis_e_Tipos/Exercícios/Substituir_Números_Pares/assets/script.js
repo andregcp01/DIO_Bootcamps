@@ -13,7 +13,12 @@ function eveniszero(){
 			if (a[i] % 2 == 0) {
 				b.push(splitSequence[i]=0);
 			} else {
-				b.push(splitSequence[i])
+				if  (a[i] % 2 == 1){
+					b.push(splitSequence[i]);
+				}
+				else {
+					b.push(splitSequence[i]=-1);
+				}
 			}
 		}
 	return b;
