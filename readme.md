@@ -55,8 +55,9 @@
 * Página do Desafio - [Quote of the Day (in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/Quote_of_the_Day/)
 * Página do Desafio - [Verificar Palíndromo](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/Verificar_Palíndromo/)
 * Página do Desafio - [Substituir Números Pares](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/Substituir_Números_Pares/)
-* JavaScript - [[Terminal] Verificar Palíndromo](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/Substituir_Números_Pares/de_Sala/verificaPalíndromo.js)
-* JavaScript - [[Terminal] Substituir Números Pares](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/Substituir_Números_Pares/de_Sala/substituiNúmerosPares.js)
+* JavaScript - [[Terminal] Verificar Palíndromo](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/de_Sala/verificaPalíndromo.js)
+* JavaScript - [[Terminal] Substituir Números Pares](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/de_Sala/substituiNúmerosPares.js)
 
 ### 7. Funções
-* 
+* JavaScript - [[Terminal] Alunos Aprovados](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/6_Funções/Exercícios/de_Sala/verificaAprovação.js)
+* JavaScript - [[Terminal] Idade Futura](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/6_Funções/Exercícios/de_Sala/calculaIdade.js)
