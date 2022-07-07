@@ -64,4 +64,6 @@
 
 ### 8. Coleções
 * JavaScript - [[Terminal] Jogadores Atacantes](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/7_Coleções/Exercícios/de_Sala/verificaAtacantes.js)
-* JavaScript - [[Terminal] Elementos Set em Array](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/7_Coleções/Exercícios/de_Sala/elementosArray.js)
+* JavaScript - [[Terminal] Set Elements to Array](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/7_Coleções/Exercícios/de_Sala/saídaArray.js)
+
+### 9. Map, Filter e Reduce
