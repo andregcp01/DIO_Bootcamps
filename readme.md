@@ -61,3 +61,7 @@
 ### 7. Funções
 * JavaScript - [[Terminal] Jogadores Aprovados](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/6_Funções/Exercícios/de_Sala/verificaAprovação.js)
 * JavaScript - [[Terminal] Idade Futura](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/6_Funções/Exercícios/de_Sala/calculaIdade.js)
+
+### 8. Coleções
+* JavaScript - [[Terminal] Jogadores Atacantes](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/7_Coleções/Exercícios/de_Sala/verificaAtacantes.js)
+* JavaScript - [[Terminal] Elementos Set em Array](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/7_Coleções/Exercícios/de_Sala/elementosArray.js)
