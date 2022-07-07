@@ -11,6 +11,7 @@
 
 ### 2. Introdução ao Git e Github
 * Receitas: [Cuscuzoca](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_I/2_Introdução_ao_Git_e_GitHub/Exercícios/Recipes/Bookmarks/Cuscuzoca.md)
+
 ### 3. **Projeto**
 * Página do Projeto - [meu GitHub](https://github.com/andregcp01/DIO_Bootcamps)
 
@@ -37,6 +38,7 @@
 * Aula 13: [Flex Order](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/2_Posicionando_elementos_com_Flexbox_em_CSS/Exercícios/de_Sala/13_Flex_Order.html)
 * Aula 14: [Flex Align Self](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/2_Posicionando_elementos_com_Flexbox_em_CSS/Exercícios/de_Sala/14_Flex_Align_Self.html)
 * Flexbox - [Flex Turismos](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/2_Posicionando_elementos_com_Flexbox_em_CSS/Exercícios/de_Sala/Projeto/)
+
 ### 3. Recriando a página inicial do Instagram 
 * Página do Projeto - [Instagram](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/2_Posicionando_elementos_com_Flexbox_em_CSS/Projeto_Instagram/)
 
