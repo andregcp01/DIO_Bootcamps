@@ -1,17 +1,21 @@
-const meusNúmeros = [19, 21, 04, 23, 17, 99, 256, 1370]
+const meusNúmeros = [1, 2, 3, 44, 50, 660, 789]
 
-//function meusValores(arr) {
-	//const meuSet = new Set(arr);
+function meusValores(arr) {
+	const meuSet = new Set(arr);
 	
-	//return meuSet;
-//}
+	return meuSet;
+}
 
-//console.log(meusValores(meusNúmeros)); //Resultado com o Set
+console.log(meusValores(meusNúmeros)); //Resultado com o Set
 
 function meusValoresArray(arr) {
 	const meuSet = new Set(arr);
 	
 	return [...meuSet];
 }
+
+console.log("------------------------------------");
+
+console.log("Array");
 
 console.log(meusValoresArray(meusNúmeros)); //Resultado em Array
