@@ -69,4 +69,5 @@
 * Atividade prática - [[Terminal] Set Elements to Array](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/7_Coleções/Exercícios/de_Sala/saídaArray.js)
 
 ### 9. Map, Filter e Reduce
-* Atividade prática - [[Terminal] Multiply This](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/8_Map_Filter_e_Reduce/Exercícios/de_Sala/multiplicaThis.js)
+* Atividade prática - [[Terminal] Multiply with This](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/8_Map_Filter_e_Reduce/Exercícios/de_Sala/multiplicaThis.js)
+* Atividade prática - [[Terminal] Multiply without This](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/8_Map_Filter_e_Reduce/Exercícios/de_Sala/multiplicaArray.js)
