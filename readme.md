@@ -5,9 +5,9 @@
 ## Módulo I
 
 ### 1. Introdução à Programação e Pensamento Computacional
-* Atividade prática - Portugol - [Cálculo das Médias](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/1_Introdução_à_Programação_e_Pensamento_Computacional/Exercícios/Portugol_Medias.txt)
-* Atividade prática - Portugol - [Ano de Nascimento](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/1_Introdução_à_Programação_e_Pensamento_Computacional/Exercícios/Portugol_Ano_de_Nascimento.txt)
-* Atividade prática - Portugol - [Cálculo Demão (simples)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/1_Introdução_à_Programação_e_Pensamento_Computacional/Exercícios/Portugol_Calculo_Demao.txt)
+* Atividade prática - [Portugol - Cálculo das Médias](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/1_Introdução_à_Programação_e_Pensamento_Computacional/Exercícios/Portugol_Medias.txt)
+* Atividade prática - [Portugol - Ano de Nascimento](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/1_Introdução_à_Programação_e_Pensamento_Computacional/Exercícios/Portugol_Ano_de_Nascimento.txt)
+* Atividade prática - [Portugol - Cálculo Demão (simples)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/1_Introdução_à_Programação_e_Pensamento_Computacional/Exercícios/Portugol_Calculo_Demao.txt)
 
 ### 2. Introdução ao Git e Github
 * Atividade prática - Receitas - [Cuscuzoca](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_I/2_Introdução_ao_Git_e_GitHub/Exercícios/Recipes/Bookmarks/Cuscuzoca.md)
