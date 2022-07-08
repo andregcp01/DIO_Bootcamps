@@ -5,12 +5,12 @@
 ## Módulo I
 
 ### 1. Introdução à Programação e Pensamento Computacional
-* Portugol - [Cálculo das Médias](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/1_Introdução_à_Programação_e_Pensamento_Computacional/Exercícios/Portugol_Medias.txt)
-* Portugol - [Ano de Nascimento](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/1_Introdução_à_Programação_e_Pensamento_Computacional/Exercícios/Portugol_Ano_de_Nascimento.txt)
-* Portugol - [Cálculo Demão (simples)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/1_Introdução_à_Programação_e_Pensamento_Computacional/Exercícios/Portugol_Calculo_Demao.txt)
+* Atividade prática - Portugol - [Cálculo das Médias](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/1_Introdução_à_Programação_e_Pensamento_Computacional/Exercícios/Portugol_Medias.txt)
+* Atividade prática - Portugol - [Ano de Nascimento](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/1_Introdução_à_Programação_e_Pensamento_Computacional/Exercícios/Portugol_Ano_de_Nascimento.txt)
+* Atividade prática - Portugol - [Cálculo Demão (simples)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_I/1_Introdução_à_Programação_e_Pensamento_Computacional/Exercícios/Portugol_Calculo_Demao.txt)
 
 ### 2. Introdução ao Git e Github
-* Receitas: [Cuscuzoca](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_I/2_Introdução_ao_Git_e_GitHub/Exercícios/Recipes/Bookmarks/Cuscuzoca.md)
+* Atividade prática - Receitas - [Cuscuzoca](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_I/2_Introdução_ao_Git_e_GitHub/Exercícios/Recipes/Bookmarks/Cuscuzoca.md)
 
 ### 3. **Projeto**
 * Página do Projeto - [meu GitHub](https://github.com/andregcp01/DIO_Bootcamps)
@@ -18,9 +18,9 @@
 ## Módulo II
 
 ### 1. Introdução a criação de websites com HTML5 e CSS3
-* Html - [Torchic](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/1_Introdução_a_criação_de_websites_com_HTML5_e_CSS3/Exercícios/Torchic/torchic.html)
-* Html - [Squirtle](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/1_Introdução_a_criação_de_websites_com_HTML5_e_CSS3/Exercícios/Squirtle/squirtle.html)
-* Html - [Primarina](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/1_Introdução_a_criação_de_websites_com_HTML5_e_CSS3/Exercícios/Primarina/primarina.html)
+* Atividade prática - [Torchic](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/1_Introdução_a_criação_de_websites_com_HTML5_e_CSS3/Exercícios/Torchic/torchic.html)
+* Atividade prática - [Squirtle](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/1_Introdução_a_criação_de_websites_com_HTML5_e_CSS3/Exercícios/Squirtle/squirtle.html)
+* Atividade prática - [Primarina](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/1_Introdução_a_criação_de_websites_com_HTML5_e_CSS3/Exercícios/Primarina/primarina.html)
 
 ### 2. Posicionando elementos com Flexbox em CSS
 * Aula 01: [Display Flex](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/2_Posicionando_elementos_com_Flexbox_em_CSS/Exercícios/de_Sala/1_Display_Flex.html)
@@ -44,28 +44,28 @@
 
 ### 4. Introdução ao JavaScript
 * Página do Desafio - [ToDoList (in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/3_Introdução_ao_JavaScript/Exercícios/ToDoList/)
-* JavaScript - [Clicker (less/plus)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/3_Introdução_ao_JavaScript/Exercícios/de_Sala/Accountant/)
+* Atividade prática - [Clicker (less/plus)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/3_Introdução_ao_JavaScript/Exercícios/de_Sala/Accountant/)
 
 ### 5. Sintaxe e Operadores
 * Página do Desafio - [Number Measure (if/else alert)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/4_Sintaxe_e_Operadores/Exercícios/Number_Measure_if-else_alert/)
 * Página do Desafio - [Number Measure (switch alert)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/4_Sintaxe_e_Operadores/Exercícios/Number_Measure_switch_alert/)
-* JavaScript - [[Terminal] Compara Números](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_II/4_Sintaxe_e_Operadores/Exercícios/de_Sala/comparaNúmeros.js)
-* JavaScript - [[Terminal] Compara Números - Validação](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_II/4_Sintaxe_e_Operadores/Exercícios/de_Sala/comparaNúmeros_validação.js)
+* Atividade prática - [[Terminal] Compara Números](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_II/4_Sintaxe_e_Operadores/Exercícios/de_Sala/comparaNúmeros.js)
+* Atividade prática - [[Terminal] Compara Números - Validação](https://github.com/andregcp01/DIO_Bootcamps/blob/master/Santander_Fullstack_Developer/Módulo_II/4_Sintaxe_e_Operadores/Exercícios/de_Sala/comparaNúmeros_validação.js)
 
 ### 6. Sintaxe e Operadores
 * Página do Desafio - [Namer Measure](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/Namer_Measure/index.html)
 * Página do Desafio - [Quote of the Day (in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/Quote_of_the_Day/)
 * Página do Desafio - [Verificar Palíndromo](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/Verificar_Palíndromo/)
 * Página do Desafio - [Substituir Números Pares](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/Substituir_Números_Pares/)
-* JavaScript - [[Terminal] Verificar Palíndromo](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/de_Sala/verificaPalíndromo.js)
-* JavaScript - [[Terminal] Substituir Números Pares](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/de_Sala/substituiNúmerosPares.js)
+* Atividade prática - [[Terminal] Verificar Palíndromo](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/de_Sala/verificaPalíndromo.js)
+* Atividade prática - [[Terminal] Substituir Números Pares](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/5_Variáveis_e_Tipos/Exercícios/de_Sala/substituiNúmerosPares.js)
 
 ### 7. Funções
-* JavaScript - [[Terminal] Jogadores Aprovados](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/6_Funções/Exercícios/de_Sala/verificaAprovação.js)
-* JavaScript - [[Terminal] Idade Futura](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/6_Funções/Exercícios/de_Sala/idadeFutura.js)
+* Atividade prática - [[Terminal] Jogadores Aprovados](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/6_Funções/Exercícios/de_Sala/verificaAprovação.js)
+* Atividade prática - [[Terminal] Idade Futura](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/6_Funções/Exercícios/de_Sala/idadeFutura.js)
 
 ### 8. Coleções
-* JavaScript - [[Terminal] Jogadores Atacantes](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/7_Coleções/Exercícios/de_Sala/verificaAtacantes.js)
-* JavaScript - [[Terminal] Set Elements to Array](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/7_Coleções/Exercícios/de_Sala/saídaArray.js)
+* Atividade prática - [[Terminal] Jogadores Atacantes](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/7_Coleções/Exercícios/de_Sala/verificaAtacantes.js)
+* Atividade prática - [[Terminal] Set Elements to Array](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/7_Coleções/Exercícios/de_Sala/saídaArray.js)
 
 ### 9. Map, Filter e Reduce
