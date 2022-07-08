@@ -72,3 +72,4 @@
 * Atividade prática - [[Terminal] Multiply with This](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/8_Map_Filter_e_Reduce/Exercícios/de_Sala/multiplicaThis.js)
 * Atividade prática - [[Terminal] Multiply without This](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/8_Map_Filter_e_Reduce/Exercícios/de_Sala/multiplicaArray.js)
 * Atividade prática - [[Terminal] Filter Numbers (Even or Odd)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/8_Map_Filter_e_Reduce/Exercícios/de_Sala/filtraNúmeros.js)
+* Atividade prática - [[Terminal] Array Total Value](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/8_Map_Filter_e_Reduce/Exercícios/de_Sala/somaArray.js)
