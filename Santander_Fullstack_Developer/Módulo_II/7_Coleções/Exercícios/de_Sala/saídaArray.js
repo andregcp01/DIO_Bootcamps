@@ -6,7 +6,7 @@ function meusValores(arr) {
 	return meuSet;
 }
 
-console.log(meusValores(meusNúmeros)); //Resultado com o Set
+console.log("Set ->",meusValores(meusNúmeros)); //Resultado com o Set
 
 function meusValoresArray(arr) {
 	const meuSet = new Set(arr);
@@ -16,6 +16,4 @@ function meusValoresArray(arr) {
 
 console.log("------------------------------------");
 
-console.log("Array");
-
-console.log(meusValoresArray(meusNúmeros)); //Resultado em Array
+console.log("Array ->",meusValoresArray(meusNúmeros)); //Resultado em Array
