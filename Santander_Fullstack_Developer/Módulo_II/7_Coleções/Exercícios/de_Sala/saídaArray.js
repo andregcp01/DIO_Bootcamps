@@ -14,6 +14,6 @@ function meusValoresArray(arr) {
 	return [...meuSet];
 }
 
-console.log("------------------------------------");
+console.log(" ");
 
 console.log("Array ->",meusValoresArray(meusNúmeros)); //Resultado em Array
