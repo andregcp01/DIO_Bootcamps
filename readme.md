@@ -74,3 +74,5 @@
 * Atividade prática - [[Terminal] Filter Numbers (Even or Odd)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/8_Map_Filter_e_Reduce/Exercícios/de_Sala/filtraNúmeros.js)
 * Atividade prática - [[Terminal] Array Total Value](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/8_Map_Filter_e_Reduce/Exercícios/de_Sala/somaArray.js)
 * Atividade prática - [[Terminal] Shopping Cart](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/8_Map_Filter_e_Reduce/Exercícios/de_Sala/carrinhoCompras.js)
+
+### 10. Debugging e Error Handling
