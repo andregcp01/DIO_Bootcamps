@@ -79,4 +79,4 @@
 * Atividade prática - [[Terminal] Array Debugging](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/9_Debugging_e_Error_Handling/Exercícios/de_Sala/validaArray.js)
 
 ### 11.Javascript Assíncrono
-* Atividade prática - [[Terminal] Cat API](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/9_Debugging_e_Error_Handling/Exercícios/de_Sala/catAPI/)
+* Atividade prática - [Cat API](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/9_Debugging_e_Error_Handling/Exercícios/de_Sala/catAPI/)
