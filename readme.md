@@ -77,3 +77,5 @@
 
 ### 10. Debugging e Error Handling
 * Atividade prática - [[Terminal] Array Debugging](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/9_Debugging_e_Error_Handling/Exercícios/de_Sala/validaArray.js)
+
+### 11.Javascript Assíncrono
