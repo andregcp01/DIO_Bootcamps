@@ -1,24 +1,24 @@
-/*o css foi retirado do github da stebsnusch*/
-
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600&display=swap');
 
-body {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	font-family: 'Quicksand', sans-serif;
-	height: 100vh;
+*{
 	margin: 0;
-	background-color: beige;
+	padding: 0;
+	text-align: center;
+	box-sizing: border-box;
+	font-family: verdana;
+}
+
+body {
+	background-color: #9DB5f5;
+	margin: auto;
+	color: white;
+	height: 100vh;
+	width: 100%;
 }
 
 img {
 	max-width: 600px;
 	border-radius: 30px;
-}
-
-main {
-	text-align: center;
 }
 
 button {
