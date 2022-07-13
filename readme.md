@@ -80,3 +80,5 @@
 
 ### 11.Javascript Assíncrono
 * Atividade prática - [Random Cat Image (in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/10_Javascript_Assíncrono/Exercícios/de_Sala/Random_Cat_Image/)
+
+### 12. Orientação a objetos
