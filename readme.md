@@ -79,7 +79,7 @@
 * Atividade prática - [[Terminal] Array Debugging](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/9_Debugging_e_Error_Handling/Exercícios/de_Sala/validaArray.js)
 
 ### 11.Javascript Assíncrono
-* Atividade prática - [Random Cat Image (in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/10_Javascript_Assíncrono/Exercícios/de_Sala/Random_Cat_Image/)
+* Atividade prática - [Random Cats (in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/10_Javascript_Assíncrono/Exercícios/de_Sala/Random_Cats/)
 
 ### 12. Orientação a objetos
 * Página do Projeto - [Desafios Iniciais JS - Santander Fullstack Developer (in progress..)]()
