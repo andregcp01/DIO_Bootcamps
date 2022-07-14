@@ -82,5 +82,5 @@
 * Atividade prática - [Random Cats (in progress..)](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/10_Javascript_Assíncrono/Exercícios/de_Sala/Random_Cats/)
 
 ### 12. Orientação a objetos
-* Desafios de Código (1/3) - [Quadrado de Pares](DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/11_Orientação_a_objetos/Desafios_de_Código_JavaScript/Quadrado_de_Pares.js)
+* Desafios de Código (1/3) - [Quadrado de Pares](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/11_Orientação_a_objetos/Desafios_de_Código_JavaScript/Quadrado_de_Pares.js)
 * Atividade prática - [Bank Account](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/11_Orientação_a_objetos/Exercícios/de_Sala/index.html)
