@@ -84,5 +84,5 @@
 ### 12. Orientação a objetos
 * Desafios de Código (1/3) - [Quadrado de Pares](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/11_Orientação_a_objetos/Desafios_de_Código_JavaScript/Quadrado_de_Pares.js)
 * Desafios de Código (2/3) - [Números com Resto 2](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/11_Orientação_a_objetos/Desafios_de_Código_JavaScript/Números_com_Resto_2.js)
-* Desafios de Código (3/3) - [Números com Resto 2](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/11_Orientação_a_objetos/Desafios_de_Código_JavaScript/Máximo_de_Tomadas.js)
+* Desafios de Código (3/3) - [Máximo de Tomadas](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/11_Orientação_a_objetos/Desafios_de_Código_JavaScript/Máximo_de_Tomadas.js)
 * Atividade prática - [Bank Account](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/11_Orientação_a_objetos/Exercícios/de_Sala/index.html)
