@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	box-sizing: border-box;
+	font-family: verdana;
+}
+
+body {
+	background-color: #9DB5f5;
+	margin: auto;
+	color: white;
+	height: 100vh;
+	width: 100%;
+}
+
+h1 {
+	padding-top: 25px;
+}
