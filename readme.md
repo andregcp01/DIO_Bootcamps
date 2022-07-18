@@ -89,3 +89,5 @@
 
 ### 13. Módulos
 * Atividade prática - [Módulos](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/12_Módulos/Exercícios/de_Sala/index.html)
+
+### 14. Manipulando a D.O.M. com JavaScript
