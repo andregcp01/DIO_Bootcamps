@@ -90,4 +90,5 @@
 ### 13. Módulos
 * Atividade prática - [Módulos](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/12_Módulos/Exercícios/de_Sala/index.html)
 
-### 14. Manipulando a D.O.M. com JavaScript
+### 14. Manipulando a DOM com JavaScript
+* Atividade prática - [Blue/Pink Mode](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/13_Manipulando_a_DOM_com_JavaScript/Exercícios/de_Sala/index.html)
