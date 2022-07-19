@@ -92,3 +92,5 @@
 
 ### 14. Manipulando a DOM com JavaScript
 * Atividade prática - [Blue/Pink Mode](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/13_Manipulando_a_DOM_com_JavaScript/Exercícios/de_Sala/index.html)
+
+### 15. Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
