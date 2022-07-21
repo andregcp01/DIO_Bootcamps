@@ -94,3 +94,13 @@
 * Atividade prática - [Blue/Pink Mode](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/13_Manipulando_a_DOM_com_JavaScript/Exercícios/de_Sala/index.html)
 
 ### 15. Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
+* Atividade prática - [TypeScript - Soma](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/14_Introdução_ao_TypeScript/Exercícios/de_Sala/soma_typescript.ts)
+* Atividade prática - [TypeScript - Interface](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/14_Introdução_ao_TypeScript/Exercícios/de_Sala/interface_typescript.ts)
+* Atividade prática - [TypeScript - Type](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/14_Introdução_ao_TypeScript/Exercícios/de_Sala/typeof_typescript.ts)
+* Atividade prática - [TypeScript - Input](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/14_Introdução_ao_TypeScript/Exercícios/de_Sala/input_typescript.ts)
+* Atividade prática - [TypeScript - Generic Types](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/14_Introdução_ao_TypeScript/Exercícios/de_Sala/generic_types_typescript.ts)
+* Atividade prática - [TypeScript - Condicionais](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/14_Introdução_ao_TypeScript/Exercícios/de_Sala/condicionais_typescript.ts)
+* Atividade prática - [TypeScript - Variáveis Opcionais](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/14_Introdução_ao_TypeScript/Exercícios/de_Sala/variáveis_opcionais_typescript.ts)
+* Atividade prática - [TypeScript - Randoly e Private](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/14_Introdução_ao_TypeScript/Exercícios/de_Sala/variáveis_reandoly_private_typescript.ts)
+* Atividade prática - [TypeScript - Bibliotecas](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/14_Introdução_ao_TypeScript/Exercícios/de_Sala/bibliotecas_typescript.ts)
+* Atividade prática - [TypeScript - Omit](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/14_Introdução_ao_TypeScript/Exercícios/de_Sala/omit_typescript.ts)
