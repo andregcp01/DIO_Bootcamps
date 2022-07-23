@@ -94,7 +94,7 @@
 * Atividade prática - [Blue/Pink Mode](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/13_Manipulando_a_DOM_com_JavaScript/Exercícios/de_Sala/index.html)
 
 ### 15. Introdução ao TypeScript
-* Página do Desafio - [In progress..]()
+* Página do Desafio - [In working..]()
 * Atividade prática - [TypeScript - Soma](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/14_Introdução_ao_TypeScript/Exercícios/de_Sala/soma_typescript.ts)
 * Atividade prática - [TypeScript - Interface](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/14_Introdução_ao_TypeScript/Exercícios/de_Sala/interface_typescript.ts)
 * Atividade prática - [TypeScript - Type](https://andregcp01.github.io/DIO_Bootcamps/Santander_Fullstack_Developer/Módulo_II/14_Introdução_ao_TypeScript/Exercícios/de_Sala/typeof_typescript.ts)
